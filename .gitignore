@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Project generated file in eclipse
+.project
+.DS_Store
+.cproject
+.settings/
+Debug/
